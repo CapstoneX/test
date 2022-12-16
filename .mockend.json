@@ -1,5 +1,5 @@
 {
-  "Cities":[
+  "Cities":{"cityarr":[
   {
     "AMRITSAR": "1. Kava Grill & Lounge",
     "BENGALURU": "1. Karavalli",
@@ -280,5 +280,6 @@
     "VISHAKHAPATNAM": "10. Zaffran",
     "HYDERABAD": "10. Zega"
   }
-]
+ ]
+ }
 }
