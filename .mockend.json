@@ -1,4 +1,5 @@
-[
+{
+  "Cities":[
   {
     "AMRITSAR": "1. Kava Grill & Lounge",
     "BENGALURU": "1. Karavalli",
@@ -280,3 +281,4 @@
     "HYDERABAD": "10. Zega"
   }
 ]
+}
